@@ -5,7 +5,7 @@ import random
 int_num = random.randrange(1, 101)
 int_attempts = 7
 
-print("A random number be tween 1 and 100 has been generated.")
+print("A random number between 1 and 100 has been generated.")
 
 # Start the guessing loop
 while int_attempts != 0:

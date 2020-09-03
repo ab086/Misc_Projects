@@ -1,0 +1,1 @@
+I'm not sure why I decided to do this. It's quite literally a box (folder) of random Python projects just because I can.
